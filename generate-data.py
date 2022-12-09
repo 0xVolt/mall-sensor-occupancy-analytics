@@ -1,3 +1,5 @@
+# This python script file generates a csv file that simulates the data that's being generated off of an Arduino sensor. We'll then import that csv file to perform some analytics so the pipeline is up and running for when we go to real-time analytics. 
+
 # Import libraries
 import pandas as pd
 import numpy as np
